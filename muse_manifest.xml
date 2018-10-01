@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sciarthistory.com" resolutions="1x" timestamp="1538408256878">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://madhushree-k.github.io/sciart" resolutions="1x" timestamp="1538410884819">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="441281804" ref="index"/>
