@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://madhushree-k.github.io/sciart" resolutions="1x" timestamp="1538410884819">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://madhushree-k.github.io/sciart" resolutions="1x" timestamp="1538488655988">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="441281804" ref="index"/>
+    <file name="index.css" crc="4285198695" ref="index"/>
+    <file name="nomq_index.css" crc="405010889" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,13 +15,18 @@
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="168818988" ref="index"/>
     <file name="asset 1sciart.png" crc="3969964940" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="asset 2sciart.png" crc="3793397940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 3sciart.png" crc="4019971741" seo="true" ref="index">
@@ -31,22 +37,21 @@
     </file>
     <file name="asset 5sciart.png" crc="63236780" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 7sciart-crop-u174.png" crc="4029067860" seo="true" ref="index">
+    <file name="asset 7sciart-crop-u174.png" crc="185125247" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 8sciart.png" crc="4263300644" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u194-4.png" crc="32134358" ref="index"/>
-    <file name="u1395-4.png" crc="4056670480" ref="index"/>
+    <file name="u194-4.png" crc="4006256937" ref="index"/>
+    <file name="u1395-4.png" crc="108141776" ref="index"/>
     <file name="asset 30sciart.png" crc="117212355" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 31sciart.png" crc="3816860823" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 32sciart-crop-u884.png" crc="44444565" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 52sciart.png" crc="364829781" seo="true" ref="index">
@@ -70,9 +75,6 @@
     <file name="asset 46sciart.png" crc="264258307" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 42sciart-crop-u964.png" crc="4171443066" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="asset 48sciart.png" crc="402978611" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -85,22 +87,13 @@
     <file name="asset 47sciart.png" crc="4047171296" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 38sciart-crop-u781.png" crc="4110663691" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="asset 39sciart.png" crc="3772665598" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 36sciart-crop-u1034.png" crc="353980438" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 41sciart.png" crc="4075040295" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 40sciart.png" crc="87861776" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 37sciart-crop-u1064.png" crc="3909256176" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 56sciart.png" crc="4252144353" seo="true" ref="index">
@@ -117,8 +110,204 @@
     </file>
     <file name="asset 6sciart.png" crc="3888093437" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="u1074-6.png" crc="531587170" ref="index"/>
+    <file name="u1074-6.png" crc="66123850" ref="index"/>
+    <file name="asset 32sciart.png" crc="3886281850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 42sciart.png" crc="12268173" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 38sciart.png" crc="4030396611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 36sciart.png" crc="456872761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 37sciart.png" crc="7100780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 3sciart294x769.png" crc="4019971741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 4sciart300x769.png" crc="292451591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 7sciart.png" crc="4193925153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 8sciart355x718.png" crc="397407419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u194-42.png" crc="3934498037" ref="index"/>
+    <file name="u1395-42.png" crc="4027082816" ref="index"/>
+    <file name="asset 30sciart231x350.png" crc="4180138886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 31sciart231x350.png" crc="34669543" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 32sciart231x350.png" crc="388287597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 52sciart231x350.png" crc="354869501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 45sciart231x350.png" crc="439815063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 34sciart231x350.png" crc="413480614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 51sciart231x350.png" crc="4221186295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 44sciart231x350.png" crc="503488043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 43sciart231x350.png" crc="4006812277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 46sciart231x345.png" crc="337503017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 42sciart231x350.png" crc="4138374559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 48sciart231x350.png" crc="3782684959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 50sciart231x350.png" crc="4109284970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 35sciart-crop-u2554.png" crc="4174336575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 47sciart231x350.png" crc="4144175161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 38sciart231x350.png" crc="4255839114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 39sciart231x350.png" crc="217057720" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 36sciart231x350.png" crc="3997459674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 41sciart231x350.png" crc="3951350296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 40sciart231x350.png" crc="4233486225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 37sciart231x350.png" crc="154220929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 56sciart231x350.png" crc="3915535602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 58sciart231x350.png" crc="3801776321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 57sciart232x350.png" crc="44821142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 59sciart232x350.png" crc="4095561748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1074-62.png" crc="4285967656" ref="index"/>
+    <file name="u194-43.png" crc="4204052045" ref="index"/>
+    <file name="asset 3sciart118x308.png" crc="3841115526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 4sciart120x308.png" crc="4249013818" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 8sciart142x287.png" crc="4292307208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1395-43.png" crc="3868965781" ref="index"/>
+    <file name="asset 30sciart93x140.png" crc="277682923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 31sciart93x140.png" crc="130266285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 32sciart93x140.png" crc="3894254686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 52sciart93x140.png" crc="3825580160" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 45sciart93x140.png" crc="4250112140" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 34sciart93x140.png" crc="3796889038" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 51sciart93x140.png" crc="3865488650" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 44sciart93x140.png" crc="3894600419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 43sciart93x140.png" crc="526288736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 46sciart93x138.png" crc="506622093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 42sciart93x140.png" crc="3982575847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 48sciart93x140.png" crc="321523189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 50sciart93x140.png" crc="4165680042" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 35sciart-crop-u25542.png" crc="4137053159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 47sciart93x140.png" crc="111070246" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 38sciart93x140.png" crc="4159098974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 39sciart93x140.png" crc="481828596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 36sciart93x140.png" crc="176714271" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 41sciart93x140.png" crc="4218436515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 40sciart93x140.png" crc="399252530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 37sciart93x140.png" crc="481564409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 56sciart93x140.png" crc="4180561509" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 58sciart93x140.png" crc="3815832308" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 57sciart93x140.png" crc="3961682566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 59sciart93x140.png" crc="4083575346" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1074-63.png" crc="3998245746" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3836495150" seo="true" mt="1538405193616" redirect="true"/>
+  <file name="index.html" crc="126438441" seo="true" mt="1538488619127" redirect="true"/>
 </manifest>
