@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://madhushree-k.github.io/sciart" resolutions="1x" timestamp="1538488655988">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://madhushree-k.github.io/sciart" resolutions="1x" timestamp="1538490375938">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4285198695" ref="index"/>
-    <file name="nomq_index.css" crc="405010889" ref="index"/>
+    <file name="index.css" crc="56171821" ref="index"/>
+    <file name="nomq_index.css" crc="4122609091" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -46,8 +46,6 @@
     <file name="asset 8sciart.png" crc="4263300644" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u194-4.png" crc="4006256937" ref="index"/>
-    <file name="u1395-4.png" crc="108141776" ref="index"/>
     <file name="asset 30sciart.png" crc="117212355" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -142,8 +140,6 @@
     <file name="asset 8sciart355x718.png" crc="397407419" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u194-42.png" crc="3934498037" ref="index"/>
-    <file name="u1395-42.png" crc="4027082816" ref="index"/>
     <file name="asset 30sciart231x350.png" crc="4180138886" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -220,7 +216,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1074-62.png" crc="4285967656" ref="index"/>
-    <file name="u194-43.png" crc="4204052045" ref="index"/>
     <file name="asset 3sciart118x308.png" crc="3841115526" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -230,7 +225,6 @@
     <file name="asset 8sciart142x287.png" crc="4292307208" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1395-43.png" crc="3868965781" ref="index"/>
     <file name="asset 30sciart93x140.png" crc="277682923" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -309,5 +303,5 @@
     <file name="u1074-63.png" crc="3998245746" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="126438441" seo="true" mt="1538488619127" redirect="true"/>
+  <file name="index.html" crc="492195818" seo="true" mt="1538490278583" redirect="true"/>
 </manifest>
